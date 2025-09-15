@@ -1,0 +1,79 @@
+TIME-TABLE (Effective from 16th Sept 2025)
+Location: E-Building
+Course: F.Y. B.Tech
+
+Lecture Timings:
+1: 09:15 – 10:15
+2: 10:15 – 11:15
+3: 11:30 – 12:30
+4: 12:30 – 01:30
+5: 02:15 – 03:15
+6: 03:15 – 04:15
+
+--- DAILY SCHEDULE (Tuesday) ---
+
+Period 1:
+- EE (E-533)
+- FDA (E-526)
+- M&DC (E-531)
+- EP (E-532)
+
+Period 2:
+- EP (E-533)
+- M&DC (E-526)
+- LL-II (Yoga, E-322)
+- EP (E-532)
+
+Period 3:
+- IKS-VM (E-533)
+- MP (E-526)
+- LL-II (Art & Craft, E-527)
+- M&DC (E-528)
+- FCSC (E-528)
+
+Period 4:
+- AR (E-533)
+- Sports (E-526)
+- Library Hr. (E-322)
+- TG Meet (E-531)
+- Sports (E-532)
+
+Period 5:
+- DI (E-533)
+- FDA (E-526)
+- EE (E-528)
+- AW (E-531)
+- AB (E-532)
+
+Period 6:
+- MP (E-533)
+- M&DC (E-526)
+- EP (E-528)
+- TG Meet (E-531)
+- Sports (E-532)
+
+--- FACULTY DETAILS ---
+M&DC – Dr. Balaji R Wadkar (BRW)
+EP – Dr. Mirazul Hoque (MH)
+FDA – Mrs. Maithili Wagh (MW)
+FCSC – Dr. Darshana Inamdar (DI)
+EE – Mr. Bharat Sonnis (BS)
+BWT – Dr. Adinath Bhalekar (AB)
+DF – Mr. Ajinkya Wakchaure (AW)
+IKS-VM – Dr. Nitu Moni (NM)
+LL-II (Yoga) – Mrs. Bharti Dewangan (BD)
+LL-II (Art & Craft) – Mr. Kishore V Ugale (KVU)
+LL-II (Drama) – Mrs. Kavita Sharma (KS)
+Other Faculty – [See Original List for Details]
+
+--- COURSES ---
+- Matrices & Differential Calculus (M&DC)
+- Engineering Physics (EP)
+- Foundation of Cyber Security Concepts (FCSC)
+- English for Engineers (EE)
+- Basics of Web Technology (BWT)
+- Digital Fabrication (DF)
+- Indian Knowledge System - Vedic Maths (IKS-VM)
+- Liberal Learning II (LL-II: Yoga, Art & Craft, Drama)
+
+Note: Sections A–J mapped to Divisions with specific faculty/labs (see original PDF for workshop details).

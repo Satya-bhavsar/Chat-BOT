@@ -1,0 +1,240 @@
+{
+  "timetableData": {
+    "collegeInfo": {
+      [cite_start]"name": "G H Raisoni College of Engineering and Management, Pune [cite: 4]",
+      [cite_start]"shortName": "GHraisoni COLLEGE [cite: 2]",
+      [cite_start]"affiliation": "An Empowered Autonomous Institute Affiliated to Savitribai Phule Pune University, Pune [cite: 5]",
+      [cite_start]"building": "E-Building [cite: 3]",
+      [cite_start]"documentTitle": "FYB TECH MASTER TIME-TABLE (TERM-1) [cite: 6]",
+      [cite_start]"academicYear": "2025-26 [cite: 7]",
+      [cite_start]"effectiveDate": "16th Sept 2025 [cite: 8]",
+      [cite_start]"day": "Tuesday [cite: 1]"
+    },
+    "schedule": [
+      {
+        [cite_start]"division": "A [cite: 24]",
+        "periods": [
+          [cite_start]{"startTime": "09:15 [cite: 17][cite_start]", "endTime": "10:15 [cite: 17][cite_start]", "subject": "EP [cite: 22][cite_start]", "faculty": "DI [cite: 26][cite_start]", "room": "E-533 [cite: 28]"},
+          [cite_start]{"startTime": "10:15 [cite: 18][cite_start]", "endTime": "11:15 [cite: 18][cite_start]", "subject": "MP [cite: 27][cite_start]", "faculty": null, "room": "E-533 [cite: 29]"},
+          [cite_start]{"startTime": "11:30 [cite: 19][cite_start]", "endTime": "12:30 [cite: 19][cite_start]", "subject": "IKS-VM [cite: 23]", "faculty": null, "room": null},
+          [cite_start]{"startTime": "12:30 [cite: 20][cite_start]", "endTime": "13:30 [cite: 20][cite_start]", "subject": "M&DC [cite: 116][cite_start]", "faculty": "BRW [cite: 34][cite_start]", "room": "E-525 [cite: 35]"},
+          [cite_start]{"startTime": "14:15 [cite: 14][cite_start]", "endTime": "15:15 [cite: 14][cite_start]", "subject": "DC [cite: 14][cite_start]", "faculty": "VM [cite: 14][cite_start]", "room": "526 [cite: 14]"},
+          [cite_start]{"startTime": "15:15 [cite: 14][cite_start]", "endTime": "16:15 [cite: 14][cite_start]", "subject": "LL-II (Drama) or Yoga [cite: 14]", "faculty": null, "room": null}
+        ]
+      },
+      {
+        [cite_start]"division": "B [cite: 31]",
+        "periods": [
+          [cite_start]{"startTime": "09:15 [cite: 17][cite_start]", "endTime": "10:15 [cite: 17][cite_start]", "subject": "M&DC [cite: 44][cite_start]", "faculty": "BRW [cite: 34][cite_start]", "room": "E-525 [cite: 35]"},
+          [cite_start]{"startTime": "10:15 [cite: 18][cite_start]", "endTime": "11:15 [cite: 18][cite_start]", "subject": "EP [cite: 22][cite_start]", "faculty": "BS [cite: 14][cite_start]", "room": "E-525 [cite: 14]"},
+          {
+            [cite_start]"startTime": "11:30 [cite: 19][cite_start]", "endTime": "13:30 [cite: 20]", "type": "Lab",
+            "batches": [
+              [cite_start]{"batch": "B1 [cite: 30][cite_start]", "subject": "BWT [cite: 30][cite_start]", "faculty": "O [cite: 30][cite_start]", "room": "E-522 [cite: 30]"},
+              [cite_start]{"batch": "B2 [cite: 32][cite_start]", "subject": "FDA [cite: 32][cite_start]", "faculty": "BD [cite: 32][cite_start]", "room": "E-522 [cite: 32]"},
+              [cite_start]{"batch": "B3 [cite: 33][cite_start]", "subject": "EP [cite: 33][cite_start]", "faculty": "BS [cite: 33][cite_start]", "room": "A-304 [cite: 33]"}
+            ]
+          },
+          [cite_start]{"startTime": "14:15 [cite: 14][cite_start]", "endTime": "16:15 [cite: 14][cite_start]", "subject": "Sports [cite: 14]", "faculty": null, "room": null}
+        ]
+      },
+      {
+        [cite_start]"division": "C [cite: 47]",
+        "periods": [
+          [cite_start]{"startTime": "09:15 [cite: 17][cite_start]", "endTime": "10:15 [cite: 17][cite_start]", "subject": "EE [cite: 37][cite_start]", "faculty": "KVU [cite: 38][cite_start]", "room": "E-526 [cite: 40]"},
+          [cite_start]{"startTime": "10:15 [cite: 18][cite_start]", "endTime": "11:15 [cite: 18][cite_start]", "subject": "AR [cite: 39][cite_start]", "faculty": null, "room": "E-526 [cite: 41]"},
+          {
+            [cite_start]"startTime": "11:30 [cite: 19][cite_start]", "endTime": "13:30 [cite: 20]", "type": "Lab",
+            "batches": [
+              [cite_start]{"batch": "C1 [cite: 48][cite_start]", "subject": "DF [cite: 48][cite_start]", "faculty": "SMD [cite: 48][cite_start]", "room": "Workshop [cite: 48]"},
+              [cite_start]{"batch": "C2 [cite: 49][cite_start]", "subject": "DF [cite: 49][cite_start]", "faculty": "CL [cite: 49][cite_start]", "room": "Workshop [cite: 49]"}
+            ]
+          },
+          [cite_start]{"startTime": "14:15 [cite: 14][cite_start]", "endTime": "15:15 [cite: 14][cite_start]", "subject": "M&DC [cite: 44][cite_start]", "faculty": "BRW [cite: 34][cite_start]", "room": "E-533 [cite: 43]"},
+          [cite_start]{"startTime": "15:15 [cite: 14][cite_start]", "endTime": "16:15 [cite: 14][cite_start]", "subject": "Sports [cite: 14]", "faculty": null, "room": null}
+        ]
+      },
+      {
+        [cite_start]"division": "D [cite: 51]",
+        "periods": [
+          [cite_start]{"startTime": "09:15 [cite: 17][cite_start]", "endTime": "10:15 [cite: 17][cite_start]", "subject": "M&DC [cite: 53]", "faculty": null, "room": null},
+          [cite_start]{"startTime": "10:15 [cite: 18][cite_start]", "endTime": "11:15 [cite: 18][cite_start]", "subject": "FDA [cite: 50][cite_start]", "faculty": "KVU [cite: 52][cite_start]", "room": "E-526 [cite: 54]"},
+          {
+            [cite_start]"startTime": "11:30 [cite: 19][cite_start]", "endTime": "13:30 [cite: 20]", "type": "Lab",
+            "batches": [
+              [cite_start]{"batch": "D1 [cite: 42][cite_start]", "subject": "DF [cite: 42][cite_start]", "faculty": "SMD [cite: 42][cite_start]", "room": "Workshop [cite: 42]"},
+              [cite_start]{"batch": "D2 [cite: 78][cite_start]", "subject": "DF [cite: 78][cite_start]", "faculty": "NPS [cite: 78][cite_start]", "room": "Workshop [cite: 78]"},
+              [cite_start]{"batch": "D3 [cite: 79][cite_start]", "subject": "DF [cite: 79][cite_start]", "faculty": "SK [cite: 79][cite_start]", "room": "Workshop [cite: 79]"}
+            ]
+          },
+          [cite_start]{"startTime": "14:15 [cite: 14][cite_start]", "endTime": "15:15 [cite: 14][cite_start]", "subject": "IKS [cite: 14]", "faculty": null, "room": null},
+          [cite_start]{"startTime": "15:15 [cite: 14][cite_start]", "endTime": "16:15 [cite: 14][cite_start]", "subject": "Sports [cite: 14]", "faculty": null, "room": null}
+        ]
+      },
+      {
+        [cite_start]"division": "E [cite: 57]",
+        "periods": [
+          [cite_start]{"startTime": "09:15 [cite: 17][cite_start]", "endTime": "10:15 [cite: 17][cite_start]", "subject": "M&DC [cite: 53][cite_start]", "faculty": "BRW [cite: 53][cite_start]", "room": "E-526 [cite: 55]"},
+          [cite_start]{"startTime": "10:15 [cite: 18][cite_start]", "endTime": "11:15 [cite: 18][cite_start]", "subject": "M&DC [cite: 80][cite_start]", "faculty": null, "room": "E-531 [cite: 71]"},
+          {
+            [cite_start]"startTime": "11:30 [cite: 19][cite_start]", "endTime": "13:30 [cite: 20]", "type": "Lab",
+            "batches": [
+              [cite_start]{"batch": "E1 [cite: 56][cite_start]", "subject": "BWT [cite: 56][cite_start]", "faculty": null, "room": "E-433 [cite: 56]"},
+              [cite_start]{"batch": "E2 [cite: 58][cite_start]", "subject": "EP [cite: 58][cite_start]", "faculty": "AB [cite: 58][cite_start]", "room": "E-317 [cite: 58]"},
+              [cite_start]{"batch": "E3 [cite: 59][cite_start]", "subject": "FDA [cite: 59][cite_start]", "faculty": "KS [cite: 59][cite_start]", "room": "E-431 [cite: 59]"}
+            ]
+          },
+          [cite_start]{"startTime": "14:15 [cite: 14][cite_start]", "endTime": "15:15 [cite: 14][cite_start]", "subject": "LL-II [cite: 14]", "faculty": null, "room": null},
+          [cite_start]{"startTime": "15:15 [cite: 14][cite_start]", "endTime": "16:15 [cite: 14][cite_start]", "subject": "LL-II(A&C) [cite: 14][cite_start]", "faculty": null, "room": "E-527 [cite: 14]"}
+        ]
+      },
+      {
+        [cite_start]"division": "F [cite: 62]",
+        "periods": [
+          [cite_start]{"startTime": "09:15 [cite: 17][cite_start]", "endTime": "10:15 [cite: 17][cite_start]", "subject": "FDA [cite: 60]", "faculty": null, "room": null},
+          [cite_start]{"startTime": "10:15 [cite: 18][cite_start]", "endTime": "11:15 [cite: 18][cite_start]", "subject": "MADC [cite: 61][cite_start]", "faculty": null, "room": "E-331 [cite: 64]"},
+          [cite_start]{"startTime": "11:30 [cite: 19][cite_start]", "endTime": "12:30 [cite: 19][cite_start]", "subject": "MW [cite: 63][cite_start]", "faculty": null, "room": "E-532 [cite: 14]"},
+          [cite_start]{"startTime": "12:30 [cite: 20][cite_start]", "endTime": "13:30 [cite: 20][cite_start]", "subject": "Library Hr [cite: 82][cite_start]", "faculty": null, "room": "E-527 [cite: 83]"},
+          {
+            [cite_start]"startTime": "14:15 [cite: 14][cite_start]", "endTime": "15:15 [cite: 14]", "type": "Lab",
+            "batches": [
+              [cite_start]{"batch": "F1 [cite: 14][cite_start]", "subject": "DF [cite: 14][cite_start]", "faculty": "PKD [cite: 14][cite_start]", "room": "Workshop [cite: 14]"},
+              [cite_start]{"batch": "F2 [cite: 14][cite_start]", "subject": "DF [cite: 14][cite_start]", "faculty": "CL [cite: 14][cite_start]", "room": "Workshop [cite: 14]"},
+              [cite_start]{"batch": "F3 [cite: 14][cite_start]", "subject": "DFLAB [cite: 14][cite_start]", "faculty": null, "room": "Workshop [cite: 14]"}
+            ]
+          },
+          [cite_start]{"startTime": "15:15 [cite: 14][cite_start]", "endTime": "16:15 [cite: 14][cite_start]", "subject": "Sports [cite: 14]", "faculty": null, "room": null}
+        ]
+      },
+      {
+        [cite_start]"division": "G [cite: 67]",
+        "periods": [
+          [cite_start]{"startTime": "09:15 [cite: 17][cite_start]", "endTime": "10:15 [cite: 17][cite_start]", "subject": "MADC [cite: 64][cite_start]", "faculty": null, "room": "E-529 [cite: 65]"},
+          [cite_start]{"startTime": "10:15 [cite: 18][cite_start]", "endTime": "11:15 [cite: 18][cite_start]", "subject": "IKS-VM [cite: 66][cite_start]", "faculty": null, "room": "E-531 [cite: 71]"},
+          {
+            [cite_start]"startTime": "11:30 [cite: 19][cite_start]", "endTime": "13:30 [cite: 20]", "type": "Lab",
+            "batches": [
+              [cite_start]{"batch": "G1 [cite: 88][cite_start]", "subject": "EP [cite: 88][cite_start]", "faculty": "AW [cite: 88][cite_start]", "room": "A-304 [cite: 88]"},
+              [cite_start]{"batch": "G2 [cite: 89][cite_start]", "subject": "BWT [cite: 89][cite_start]", "faculty": null, "room": "E-522 [cite: 89]"},
+              [cite_start]{"batch": "G3 [cite: 90][cite_start]", "subject": "FDA [cite: 90][cite_start]", "faculty": "KS [cite: 90][cite_start]", "room": "E-522 [cite: 90]"}
+            ]
+          },
+          [cite_start]{"startTime": "14:15 [cite: 14][cite_start]", "endTime": "15:15 [cite: 14][cite_start]", "subject": "LL-II(AAC) [cite: 14][cite_start]", "faculty": null, "room": "E-528 [cite: 14]"},
+          [cite_start]{"startTime": "15:15 [cite: 14][cite_start]", "endTime": "16:15 [cite: 14][cite_start]", "subject": "LL-II Yoga [cite: 14]", "faculty": null, "room": null}
+        ]
+      },
+      {
+        [cite_start]"division": "H [cite: 72]",
+        "periods": [
+          [cite_start]{"startTime": "09:15 [cite: 17][cite_start]", "endTime": "10:15 [cite: 17][cite_start]", "subject": "MW [cite: 68][cite_start]", "faculty": null, "room": "E-531 [cite: 114]"},
+          [cite_start]{"startTime": "10:15 [cite: 18][cite_start]", "endTime": "11:15 [cite: 18][cite_start]", "subject": "MP [cite: 69][cite_start]", "faculty": null, "room": "E-531 [cite: 115]"},
+          {
+            [cite_start]"startTime": "11:30 [cite: 19][cite_start]", "endTime": "13:30 [cite: 20]", "type": "Lab",
+            "batches": [
+              [cite_start]{"batch": "H1 [cite: 73][cite_start]", "subject": "DF [cite: 73][cite_start]", "faculty": "PKD [cite: 73][cite_start]", "room": "Workshop [cite: 73]"},
+              [cite_start]{"batch": "H2 [cite: 74][cite_start]", "subject": "DF [cite: 74][cite_start]", "faculty": "NG [cite: 74][cite_start]", "room": "Workshop [cite: 74]"},
+              [cite_start]{"batch": "H3 [cite: 75][cite_start]", "subject": "DF [cite: 75][cite_start]", "faculty": "PW [cite: 75][cite_start]", "room": "Workshop [cite: 75]"}
+            ]
+          },
+          [cite_start]{"startTime": "14:15 [cite: 14][cite_start]", "endTime": "15:15 [cite: 14][cite_start]", "subject": "LL-II (Drama) [cite: 14]", "faculty": null, "room": null},
+          [cite_start]{"startTime": "15:15 [cite: 14][cite_start]", "endTime": "16:15 [cite: 14][cite_start]", "subject": "TO MEET [cite: 14]", "faculty": null, "room": null}
+        ]
+      },
+      {
+        [cite_start]"division": "I [cite: 99]",
+        "periods": [
+          [cite_start]{"startTime": "09:15 [cite: 17][cite_start]", "endTime": "10:15 [cite: 17][cite_start]", "subject": "EE [cite: 84][cite_start]", "faculty": "DM [cite: 85]", "room": null},
+          [cite_start]{"startTime": "10:15 [cite: 18][cite_start]", "endTime": "11:15 [cite: 18][cite_start]", "subject": "Library Hr [cite: 86]", "faculty": null, "room": null},
+          [cite_start]{"startTime": "11:30 [cite: 19][cite_start]", "endTime": "12:30 [cite: 19][cite_start]", "subject": "FDA [cite: 91][cite_start]", "faculty": null, "room": "E-532 [cite: 93]"},
+          [cite_start]{"startTime": "12:30 [cite: 20][cite_start]", "endTime": "13:30 [cite: 20][cite_start]", "subject": "EP [cite: 92][cite_start]", "faculty": "AB [cite: 94][cite_start]", "room": "-532 [cite: 94]"},
+          {
+            [cite_start]"startTime": "14:15 [cite: 14][cite_start]", "endTime": "16:15 [cite: 14]", "type": "Lab",
+            "batches": [
+              [cite_start]{"batch": "I1 [cite: 95][cite_start]", "subject": "FCSC [cite: 95][cite_start]", "faculty": "PR [cite: 95][cite_start]", "room": "E-431 [cite: 95]"},
+              [cite_start]{"batch": "I2 [cite: 14][cite_start]", "subject": "FDA [cite: 14][cite_start]", "faculty": "PR [cite: 14][cite_start]", "room": "E-431 [cite: 14]"},
+              [cite_start]{"batch": "I3 [cite: 14][cite_start]", "subject": "BWT(V) [cite: 14][cite_start]", "faculty": null, "room": "E-431 [cite: 14]"}
+            ]
+          }
+        ]
+      },
+      {
+        [cite_start]"division": "J [cite: 107]",
+        "periods": [
+          [cite_start]{"startTime": "09:15 [cite: 17][cite_start]", "endTime": "10:15 [cite: 17][cite_start]", "subject": "FCSC [cite: 101][cite_start]", "faculty": "PR [cite: 102][cite_start]", "room": "E-525 [cite: 104]"},
+          [cite_start]{"startTime": "10:15 [cite: 18][cite_start]", "endTime": "11:15 [cite: 18][cite_start]", "subject": "EP [cite: 100][cite_start]", "faculty": "NM [cite: 100][cite_start]", "room": "E-525 [cite: 105]"},
+          [cite_start]{"startTime": "11:30 [cite: 19][cite_start]", "endTime": "12:30 [cite: 19][cite_start]", "subject": "MADC [cite: 106][cite_start]", "faculty": null, "room": "E-332 [cite: 108, 110]"},
+          [cite_start]{"startTime": "12:30 [cite: 20][cite_start]", "endTime": "13:30 [cite: 20][cite_start]", "subject": "Library Hr [cite: 109]", "faculty": null, "room": null},
+          {
+            [cite_start]"startTime": "14:15 [cite: 14][cite_start]", "endTime": "16:15 [cite: 14]", "type": "Lab",
+            "batches": [
+              [cite_start]{"batch": "J1 [cite: 14][cite_start]", "subject": "EP(NM) [cite: 14][cite_start]", "faculty": "NM", "room": "A-304 [cite: 14]"},
+              [cite_start]{"batch": "J2 [cite: 103][cite_start]", "subject": null, "faculty": "NM [cite: 103][cite_start]", "room": "E-317 [cite: 103]"},
+              [cite_start]{"batch": "J3 [cite: 111][cite_start]", "subject": "BWT [cite: 111][cite_start]", "faculty": null, "room": "E-431 [cite: 111]"}
+            ]
+          }
+        ]
+      }
+    ],
+    "breaks": [
+      [cite_start]{"type": "SHORT RECESS [cite: 77][cite_start]", "startTime": "11:15 AM [cite: 76][cite_start]", "endTime": "11:30 AM [cite: 76]"},
+      [cite_start]{"type": "LONG RECESS [cite: 98][cite_start]", "startTime": "01:30 PM [cite: 96][cite_start]", "endTime": "02:15 PM [cite: 96, 97]"}
+    ],
+    "legend": {
+      "courses": [
+        [cite_start]{"initials": "M&DC [cite: 116][cite_start]", "name": "Matrices & Differential Calculus [cite: 116]"},
+        [cite_start]{"initials": "EP [cite: 116][cite_start]", "name": "Engineering Physics [cite: 116]"},
+        [cite_start]{"initials": "FDA [cite: 116][cite_start]", "name": "Foundation of Data Analytics [cite: 116]"},
+        [cite_start]{"initials": "FCSC [cite: 116][cite_start]", "name": "Foundation of Cyber Security Concepts [cite: 116]"},
+        [cite_start]{"initials": "EE [cite: 116][cite_start]", "name": "English for Engineers [cite: 116]"},
+        [cite_start]{"initials": "BWT [cite: 116][cite_start]", "name": "Basics of Web Technology [cite: 116]"},
+        [cite_start]{"initials": "DF [cite: 116][cite_start]", "name": "Digital Fabrication [cite: 116]"},
+        [cite_start]{"initials": "IKS-VM [cite: 116][cite_start]", "name": "Indian Knowledge System -Vedic Maths [cite: 116]"},
+        [cite_start]{"initials": "LL-II (Yoga) [cite: 116][cite_start]", "name": "Liberal Learning - Yoga [cite: 116]"},
+        [cite_start]{"initials": "LL-II (A&C) [cite: 116][cite_start]", "name": "Liberal Learning - Art & Craft [cite: 116]"},
+        [cite_start]{"initials": "LL-II (Drama) [cite: 116][cite_start]", "name": "Liberal Learning - Drama [cite: 116]"}
+      ],
+      "faculty": [
+        [cite_start]{"initials": "BRW [cite: 116]", "name": "Dr. [cite_start]Balaji R Wadkar [cite: 116][cite_start]", "course": "M&DC [cite: 116]"},
+        [cite_start]{"initials": "MH [cite: 116]", "name": "Dr. [cite_start]Mirazul Hoque [cite: 116][cite_start]", "course": "M&DC [cite: 116]"},
+        [cite_start]{"initials": "MW [cite: 116]", "name": "Mrs. [cite_start]Maithili Wagh [cite: 116][cite_start]", "course": "M&DC [cite: 116]"},
+        [cite_start]{"initials": "DI [cite: 116]", "name": "Dr. [cite_start]Darshana Inamdar [cite: 116][cite_start]", "course": "EP [cite: 116]"},
+        [cite_start]{"initials": "BS [cite: 116]", "name": "Mr. [cite_start]Bharat Sonnis [cite: 116][cite_start]", "course": "EP [cite: 116]"},
+        [cite_start]{"initials": "AB [cite: 116]", "name": "Dr. [cite_start]Adinath Bhalekar [cite: 116][cite_start]", "course": "EP [cite: 116]"},
+        [cite_start]{"initials": "AW [cite: 116]", "name": "Mr. [cite_start]Ajinkya Wakchanre [cite: 116][cite_start]", "course": "EP [cite: 116]"},
+        [cite_start]{"initials": "NM [cite: 116]", "name": "Dr. [cite_start]Nitu Moni [cite: 116][cite_start]", "course": "EP [cite: 116]"},
+        [cite_start]{"initials": "BD [cite: 116]", "name": "Mrs. [cite_start]Bharti Dewangan [cite: 116][cite_start]", "course": "FDA [cite: 116]"},
+        [cite_start]{"initials": "KVU [cite: 116]", "name": "Mr. [cite_start]Kishore V Ugale [cite: 116][cite_start]", "course": "FDA [cite: 116]"},
+        [cite_start]{"initials": "KS [cite: 116]", "name": "Mrs. [cite_start]Kavita Sharama [cite: 116][cite_start]", "course": "FDA [cite: 116]"},
+        [cite_start]{"initials": "PR [cite: 116]", "name": "Mrs. [cite_start]Priyanka Raut [cite: 116][cite_start]", "course": "FDA/FCSC [cite: 116]"},
+        [cite_start]{"initials": "AK [cite: 116][cite_start]", "name": "Ms Alka Rudrakanthwar [cite: 116][cite_start]", "course": "EE [cite: 116]"},
+        [cite_start]{"initials": "DM [cite: 116]", "name": "Mrs. [cite_start]Dipawalee Mishra [cite: 116][cite_start]", "course": "EE [cite: 116]"},
+        [cite_start]{"initials": "MW [cite: 116]", "name": "Mr. [cite_start]Mahendra Wagh [cite: 116][cite_start]", "course": "EE [cite: 116]"},
+        [cite_start]{"initials": "SMD [cite: 116]", "name": "Mr.S. [cite_start]M. Deshpande [cite: 116][cite_start]", "course": "DF [cite: 116]"},
+        [cite_start]{"initials": "NPS [cite: 116]", "name": "Mr. [cite_start]N. P. Sirdeshmukh [cite: 116][cite_start]", "course": "DF [cite: 116]"},
+        [cite_start]{"initials": "CL [cite: 116]", "name": "Mr.C. [cite_start]Limbadri [cite: 116][cite_start]", "course": "DF [cite: 116]"},
+        [cite_start]{"initials": "PKD [cite: 116]", "name": "Dr. [cite_start]P. K. Dhutekar [cite: 116][cite_start]", "course": "DF [cite: 116]"},
+        [cite_start]{"initials": "SK [cite: 116][cite_start]", "name": "Mr Subhash Kumar [cite: 116][cite_start]", "course": "DF [cite: 116]"},
+        [cite_start]{"initials": "KU [cite: 116][cite_start]", "name": "Mr Kamal Ukey [cite: 116][cite_start]", "course": "DF [cite: 116]"},
+        [cite_start]{"initials": "HM [cite: 116][cite_start]", "name": "Dr Himadri Majumder [cite: 116][cite_start]", "course": "DF [cite: 116]"},
+        [cite_start]{"initials": "PW [cite: 116]", "name": "Mrs. [cite_start]Pratiksha Wagh [cite: 116][cite_start]", "course": "DF [cite: 116]"},
+        [cite_start]{"initials": "AB [cite: 116][cite_start]", "name": "Dr.Akhya Behera [cite: 116][cite_start]", "course": "DF [cite: 116]"},
+        [cite_start]{"initials": "BAP [cite: 116]", "name": "Dr. [cite_start]B. A. Plingate [cite: 116][cite_start]", "course": "DF [cite: 116]"},
+        [cite_start]{"initials": "NG [cite: 116]", "name": "Mr. [cite_start]Nagareddy G [cite: 116][cite_start]", "course": "DF [cite: 116]"},
+        [cite_start]{"initials": "S&D [cite: 116]", "name": "Mr. [cite_start]Sawant/Mr.Dipike [cite: 116][cite_start]", "course": "Lab Asst [cite: 116]"},
+        [cite_start]{"initials": "MP [cite: 116]", "name": "Mrs. [cite_start]Manisha Patil [cite: 116][cite_start]", "course": "IKS-VM [cite: 116]"},
+        [cite_start]{"initials": "SK [cite: 116][cite_start]", "name": "Ms Sujatha Kadde [cite: 116][cite_start]", "course": "LL-II(A&C) [cite: 116]"}
+      ],
+      "branches": [
+        [cite_start]{"name": "Computer Engg [cite: 116][cite_start]", "sections": ["A [cite: 116][cite_start]", "B [cite: 116][cite_start]", "C [cite: 116][cite_start]", "D [cite: 116]"]},
+        [cite_start]{"name": "Information Technology [cite: 116][cite_start]", "sections": ["E [cite: 116][cite_start]", "F [cite: 116][cite_start]", "G [cite: 116][cite_start]", "H [cite: 116]"]},
+        [cite_start]{"name": "CSE-Cyber Security [cite: 116][cite_start]", "sections": ["I [cite: 116]"]},
+        [cite_start]{"name": "CSE-Data Science [cite: 116][cite_start]", "sections": ["J [cite: 116]"]}
+      ]
+    },
+    "signatories": [
+      {"name": "Dr. [cite_start]Balaji R Wadkar [cite: 117][cite_start]", "title": "Time-Table Incharge [cite: 117]"},
+      {"name": "Dr. [cite_start]Vandana Dureja [cite: 118][cite_start]", "title": "Dean F.Y.B Tech [cite: 119]"},
+      {"name": "Dr. [cite_start]Nitin Korde [cite: 120][cite_start]", "title": "Dean Academics [cite: 120]"}
+    ]
+  }
+}
