@@ -1,193 +1,308 @@
+G H Raisoni College of Engineering  and  Management, Pune
+  (An Empowered Autonomous Institute Affiliated to Savitribai Phule Pune University, Pune)
 
-A.Y.:-2025-26 W.E.F.: 15th Sept 2025 Rev-00
+E-Building F Y B TECH  MASTER  TIME-TABLE  (TERM-1)  A.Y.:-2025-26 W.E.F.: 15th Sept 2025 Rev-00
 
 Lecture  
-No.
-
 1 2 3 4 5 6
+
+No.
+Day
 
 Class 9:15-10:15 10:15-11:15 11:30-12:30 12:30-1:30 02:15-03:15 03:15-04:15
 
-   M&DC FDA LL-II(Yoga) LL-II(A&C) 
+   M&DC FDA A1:BWT()_E-522 LL-II(Yoga) LL-II(A&C) 
+DIV A BRW BD A2:EP(DI)_E-317 E-322 E-533
 
-BRW BD E-322 E-533
+ E-533 E-533 A3:FDA(BD)_E-226A LL-II (Drama)
+FDA EE B1:DF(SK)_ Workshop EP .
 
- E-533 E-533
+DIV B BD MW   B2:DF(BAP)_Workshop BS Library Hr.
+E-525 E-525 B3:DF(PW)_Workshop  E-525 .
 
-FDA EE EP .
+C1:FDA(KVU)_E-226A M&DC . IKS-VM .
+DIV C C2:BWT()_E-431 BRW TG MEET MP Sports
 
-BD MW BS Library Hr.
+C3:EP(BS)_A-304  E-533 . E-526 .
+EP  M&DC FDA . D1:FDA(KVU)_E-226A
 
-E-525 E-525  E-525 .
+DIV D DI BRW KVU TG MEET D2:EP(DI)_E-317
+E-526 E-526 E-526 . D3:BWT()_E-431
 
-M&DC . IKS-VM .
+M&DC FDA  EP IKS-VM E1:DF(SMD)_Workshop
+DIV E MW KS AB MP E2:DF(NPS)_Workshop 
 
-BRW TG MEET MP Sports
+E-527 E-527 E-527 E-527 E3:DF(PW)_Workshop
+EP M&DC F1:BWT()_E-431 LL-II(A&C) LL-II(Yoga)
 
- E-533 . E-526 .
+DIV F AW MW F2:EP(AW)_A-304 E-528 E-322
+ E-528 E-528 F3:FDA()_E-226B LL-II (Drama)
 
-EP  M&DC FDA .
+G1:DF(NPS)_Workshop FDA EE EP .
+DIV G G2:DF(BAP)_Workshop KS DM AW Sports
 
-DI BRW KVU TG MEET
+G3:DF(AB)_Workshop E-531 E-531 E-531 .
+EE IKS-VM M&DC . H1:FDA()_E-226B
 
-E-526 E-526 E-526 .
+DIV H DM MP MW TG MEET H2:EP(AB)_A-304
+E-532 E-532 E-532 . H3:BWT()_E-522
 
-M&DC FDA  EP IKS-VM
+I1:EP(NM)_E-317 IKS-VM . M&DC .
+DIV I    I2:BWT()_E-522 MP TG MEET MH Sports
 
-MW KS AB MP
+I3:FCSC(PR)_E-226B E-528 . E-532 .
+J1:DF(PKD)_E- M&DC FDA EP .
 
-E-527 E-527 E-527 E-527
+DIV J J2:DF(CL)_E- MH PR NM TG MEET
+J3:DF(S&D)_E- E-525 E-525 E-527 .
 
-EP M&DC LL-II(A&C) LL-II(Yoga)
+ EE EP IKS-VM . A1:FDA(BD)_E-226A  
+DIV A AR DI MP TG MEET A2:BWT()_E-522
 
-AW MW E-528 E-322
+ E-533  E-533 E-533 . A3:EP(DI)_E-317
+ B1:BWT()_E-522 M&DC . EP .
 
- E-528 E-528
+DIV B B2:FDA(BD)_E-226A BRW TG MEET BS Sports
+B3:EP(BS)_A-304 E-525 . E-525 .
 
-FDA EE EP .
+C1:DF(SMD)_Workshop FDA EE M&DC .
+DIV C C2:DF(CL)_Workshop KVU AR BRW Sports
 
-KS DM AW Sports
+C3:BWT()_E-226C E-526 E-526 E-533 .
+ FDA M&DC D1:DF(SMD)_Workshop IKS-VM .
 
-E-531 E-531 E-531 .
+DIV D KVU BRW D2:DF(NPS)_Workshop MP Sports
+E-526 E-526 D3:DF(SK)_Workshop E-526 .
 
-EE IKS-VM M&DC .
+E1:BWT()_E-431 M&DC . LL-II( Yoga) LL-II(A&C) 
+DIV E E2:EP(AB)_E-317 MW Library Hr.  E-322 E-527
 
-DM MP MW TG MEET
+E3:FDA(KS)_E-226B  E-527 . LL-II (Drama)
+FDA  M&DC EE . F1:DF(PKD)_Workshop 
 
-E-532 E-532 E-532 .
+DIV F . MW DM Library Hr F2:DF(CL)_Workshop  
+E-528  E-528 E-528 . F3:DF(AB)_Workshop
 
-IKS-VM . M&DC .
+M&DC IKS-VM G1:EP(AW)_A-304  EP .
+DIV G MW MP G2:BWT()_E-522 AW TG MEET
 
-MP TG MEET MH Sports
+E-531 E-531 G3:FDA(KS)_E-226A E-531  .
+H1:DF(PKD)_Workshop FDA EP   M&DC .
 
-E-528 . E-532 .
+DIV H H2:DF(NG)_E- . AB MW Sports
+H3:DF(PW)_E- E-532 E-532 E-532 .
 
-M&DC FDA EP .
+EP FCSC I1:FCSC(PR)_E-226B LL-II(A&C) LL-II(Yoga)
+DIV I NM PR  I2:EP(NM)_E-317 E-528 E-322
 
-MH PR NM TG MEET
+E-525 E-525 I3:BWT()_E-431 LL-II (Drama)
+ M&DC EE . IKS-VM  J1:EP(NM)_A-304 
 
-E-525 E-525 E-527 .
+DIV J MH MW Library Hr MP J2:FDA(PR)_E-226B 
+E-532 E-532 . E-531 J3:BWT()_E-431
 
- EE EP IKS-VM .
+A1:DF(SMD)_Workshop M&DC .  EP .
+DIV A A2:DF(BAP)_Workshop BRW Library Hr. DI Sports
 
-AR DI MP TG MEET
+A3:DF(PW)_Workshop E-533 .  E-533 .
+M&DC  FDA B1:FDA(BD)_E226A IKS-VM .
 
- E-533  E-533 E-533 .
+DIV B BRW BD B2:EP(BS)_A-304 MP Sports
+E-533  E-533 B3:BWT()_E-522  E-525 .
+  EP M&DC   EE . C1:DF(SMD)_Workshop
 
-M&DC . EP .
+DIV C BS BRW AR Library Hr. C2:DF(CL)_Workshop 
+E-525 E-525 E-525 . C3:DF(KU)_Workshop
 
-BRW TG MEET BS Sports
+EP FDA D1:EP(DI)_E-317 EE .
+DIV D DI KVU D2:BWT()_E-431 AR Sports
 
-E-525 . E-525 .
+E-526 E-526 D3:FDA(KVU)_E-226B  E-526 .
+EE  EP FDA . E1:FDA(KS)_E-226A 
 
-FDA EE M&DC .
+DIV E DM AB KS TG MEET E2: BWT()_E-522
+E-527 E-527 E-527 . E3:EP(AB)_A-304
 
-KVU AR BRW Sports
+F1:FDA()_E-226A  IKS-VM .  FDA .
+DIV F F2:BWT()_E-431 MP TG MEET . Sports
 
-E-526 E-526 E-533 .
+F3:EP(AW)_A-304 E-528 . E-528 .
+FDA M&DC EP . G1:DF(NPS)_E
 
- FDA M&DC IKS-VM .
+DIV G KS MW AW TG MEET G2:DF(BAP)_E
+E-531 E-531  E-531 . G3:DF(AB)_E
 
-KVU BRW MP Sports
+EP IKS-VM H1:DF(PKD)_E LL-II(Yoga) LL-II(A&C)
+DIV H AB MP H2:DF(NG)_E E-322  E-532
 
-E-526 E-526 E-526 .
+E-532 E-532 H3:DF(PW)_E LL-II (Drama)
+EE M&DC FCSC IKS-VM I1:BWT()_E-431
 
-M&DC . LL-II( Yoga) LL-II(A&C) 
+DIV I MW MH PR MP I2:FCSC(PR)_E-226B
+E-528 E-528 E-532 E-532 I3:EP(NM)_E-317
 
-MW Library Hr.  E-322 E-527
+J1:BWT()_E-522 EP . LL-II(A&C) LL-II(Yoga) 
+DIV J J2:EP(NM)_E-317 NM Library Hr E-527 E-322
 
- E-527 .
+J3:FDA()_E-226B  E-526 . LL-II (Drama)
 
-FDA  M&DC EE .
+Wednesday Tuesday Monday
 
-. MW DM Library Hr
+11:15AM   - 11:30 AM        SHORT RECESS
 
-E-528  E-528 E-528 .
+01:30PM -  02:15 PM        LONG RECESS
 
-M&DC IKS-VM  EP .
 
-MW MP AW TG MEET
 
-E-531 E-531 E-531  .
+              G H Raisoni College of Engineering  and  Management, Pune
+  (An Empowered Autonomous Institute Affiliated to Savitribai Phule Pune University, Pune)
 
-FDA EP   M&DC .
+E-Building F Y B TECH  MASTER  TIME-TABLE  (TERM-1)  A.Y.:-2025-26 W.E.F.: 15th Sept 2025 Rev-00
 
-. AB MW Sports
+Lecture  
+1 2 3 4 5 6
 
-E-532 E-532 E-532 .
+No.
+Day
 
-EP FCSC LL-II(A&C) LL-II(Yoga)
+Class 9:15-10:15 10:15-11:15 11:30-12:30 12:30-1:30 02:15-03:15 03:15-04:15
 
-NM PR E-528 E-322
+FDA EP  M&DC . A1:DF(SMD)_Workshop 
+DIV A BD DI BRW TG MEET A2:DF(BAP)_Workshop  
 
-E-525 E-525
+E-533 E-533 E-533 . A3:DF(PW)_Workshop
+M&DC IKS-VM FDA . B1:EP(BS)_A-304
 
- M&DC EE . IKS-VM  
+DIV B BRW MP BD Library Hr. B2:BWT()_E-522
+ E-525  E-525 E-525 . B3:FDA(BD)_E-226A 
+FDA EP C1:EP(BS)_A-304 LL-II(Yoga) LL-II(A&C)
 
-MH MW Library Hr MP
+DIV C KVU BS C2:FDA(KVU)_E-226B  E-322  E-533
+E-526 E-526 C3:DF(KU)_Workshop LL-II (Drama)
 
-E-532 E-532 . E-531
+D1:DF(SMD)_E   EP . M&DC .
+DIV D D2:DF(NPS)_E DI Library Hr BRW TG MEET
 
-M&DC .  EP .
+D3:DF(SK)_E E-526 . E-526 .
+M&DC EP E1:EP(AB)_E-317 IKS-VM .
 
-BRW Library Hr. DI Sports
+DIV E MW AB E2:FDA(KS)_E-226A MP Sports
+E-527 E-527 E3:BWT()_E-522 E-527 .
+FDA EE F1:DF(PKD)_Workshop EP .
 
-E-533 .  E-533 .
+DIV F . DM F2:DF(CL)_Workshop AW Library Hr,
+E-528 E-528 F3:DF(AB)_Workshop E-528 .
 
-M&DC  FDA IKS-VM .
+G1:BWT()_E-522 IKS-VM . LL-II (A&C) LL-II (Yoga)
+DIV G G2:FDA(KS)_E-226A MP Library Hr. E-531 E-322
 
-BRW BD MP Sports
+G3:EP(AW)_A-304 E-531 . LL-II (Drama)
+EE  M&DC FDA . H1:EP(AB)_E-317
 
-E-533  E-533  E-525 .
+DIV H DM MW . Library Hr. H2:BWT()_E-431
+E-532 E-532 E-532 . H3:FDA()_E-226B 
 
-  EP M&DC   EE .
+I1:DF(HM)_E- EP . EE .
+DIV I I2:DF(BAP)_E-  NM Library Hr. MW Sports
 
-BS BRW AR Library Hr.
+I3:DF(KU)_E- E-528 . E-525 .
+J1:FDA()_E-226B FDA IKS-VM EP .
 
-E-525 E-525 E-525 .
+DIV J J2:BWT()_E-431 PR MP NM TG MEET
+J3:EP(NM)_E-317 E-527 E-527 E-532 .
 
-EP FDA EE .
+A1:EP(DI)_E-317  FDA IKS-VM EE .
+DIV A A2:FDA(BD)_E-226A BD MP AR Sports
 
-DI KVU AR Sports
+A3:BWT()_E-522 E-533 E-533 E-533 .
+EP EE B1:DF(SK)_ Workshop LL-II(Yoga) LL-II(A&C) 
 
-E-526 E-526  E-526 .
+DIV B BS MW B2:DF(BAP)_Workshop E-322 E-525
+E-525  E-525 B3:DF(PW)_Workshop LL-II (Drama)
+FDA EP IKS-VM . C1:BWT()_E-431
 
-EE  EP FDA .
+DIV C KVU BS MP TG MEET C2:EP(BS)_E-317
+E-533 E-533  E-525 . C3:FDA(KVU)_E-226B
+ EE IKS-VM D1:BWT()_E-431 LL-II(A&C) LL-II (Yoga)
 
-DM AB KS TG MEET
+DIV D AR MP D2:FDA(KVU)_E-226B E-526 E-322
+ E-526 E-526 D3:EP(DI)_E-317 LL-II (Drama)
 
-E-527 E-527 E-527 .
+E1:DF(SMD)_Workshop FDA .  EE .
+DIV E E2:DF(NPS)_Workshop KS TG MEET DM Sports
 
- IKS-VM .  FDA .
+E3:DF(PW)_Workshop E-527 .  E-527 .
+M&DC EP F1:EP(AW)_A-304   IKS-VM .
 
-MP TG MEET . Sports
+DIV F MW AW F2:FDA()_E-226A MP Sports
+E-528 E-528 F3:BWT()_E-522 E-528 .
+FDA M&DC EE .     G1:FDA(KS)_E-226A
 
-E-528 . E-528 .
+DIV G KS MW DM Library Hr. G2:EP(AW)_A-304
+E-531 E-531 E-531 . G3:BWT()_E-522 
 
-FDA M&DC EP .
+H1:BWT()_E-431 EP . FDA .
+DIV H H2:FDA()_E-226B AB TG MEET . Sports
 
-KS MW AW TG MEET
+H3:EP(AB)_A-304 E-532 . E-532 .
+M&DC EP FCSC . I1:DF(HM)_Workshop  
 
-E-531 E-531  E-531 .
+DIV I MH NM PR TG MEET I2:DF(BAP)_Workshop
+E-527 E-527 E-528 . I3:DF(KU)_Workshop
+FDA M&DC J1:DF(PKD)_E- EE .
 
-EP IKS-VM LL-II(Yoga) LL-II(A&C)
+DIV J PR MH J2:DF(CL)_E- MW Sports
+E-532 E-532 J3:DF(S&D)_E- E-531 .
 
-AB MP E-322  E-532
+--- Activity Activity Activity
 
-E-532 E-532
+Course Name S. S. 
+Course Intitals Faculty Name (& Course) Faculty Initials Faculty Name (&Course) Faculty Initials
 
-EE M&DC FCSC IKS-VM 
+NO NO
+Matrices & Differential Calculus M&DC 1 Dr. Balaji R Wadkar (M&DC) BRW 19 (BWT)
 
-MW MH PR MP
+Engineering Physics EP 2 Dr. Mirazul Hoque (M&DC) MH 20 Mr.S. M. Deshpande (DF) SMD
 
-E-528 E-528 E-532 E-532
+Foundation of Data Analytics FDA 3 Mrs. Maithili Wagh (M&DC) MW 21 Mr. N. P. Sirdeshmukh (DF) NPS
 
-EP . LL-II(A&C) LL-II(Yoga) 
+Foundation of Cyber Security Concepts FCSC 4 Dr. Darshana Inamdar (EP) DI 22 Mr.C. Limbadri (DF) CL
 
-NM Library Hr E-527 E-322
+English for Engineers EE 5 Mr. Bharat Sonnis (EP) BS 23 Dr. P. K. Dhutekar (DF) PKD
 
- E-526 .
+Basics of Web Technology BWT 6 Dr. Adinath Bhalekar (EP) AB 24 Mr Subhash Kumar (DF) SK
 
-E-Building 
+Digital Fabrication DF 7 Mr. Ajinkya Wakchaure (EP) AW 25 Mr Kamal Ukey (DF) KU
 
-... (Truncated for brevity, but full extracted text is included in original extraction)
+Indian Knowledge System -Vedic Maths IKS-VM 8 Dr. Nitu Moni (EP) NM 26 Dr Himadri Majumder (DF) HM
+
+Yoga LL-II (Yoga) 9 Mrs. Bharti Dewangan (FDA) BD 27 Mrs. Pratiksha Wagh (DF) PW
+Liberal 
+
+Art & Craft LL-II (A&C) 10 Mr. Kishore V Ugale (FDA) KVU 28 Dr.Akhya Behera (DF) AB
+Learning II
+
+Drama LL-II (Drama) 11 Mrs, Kavita Sharama (FDA) KS 29 Dr. B. A. Phugate (DF) BAP
+
+12 (FDA) 30 Mr. Nagareddy G (DF) NG
+
+Branch Sections 13 Mrs. Priyanka Raut (FDA/ FCSC) PR 31 Mr. Sawant/Mr.Dipike (Lab Asst.) S&D
+
+Computer Engg. Section: A, B, C & D 14 Ms.Alka Rudrakanthwar (EE) AK 32 Mrs. Manisha Patil (IKS-VM) MP
+
+Information Technology Section: E, F,  G & H 15 Mrs. Dipawalee Mishra (EE) DM 33 LL-II(Yoga)
+
+CSE-Cyber Security Section: I 16 Mr. Mahendra Wagh  (EE) MW 34 Ms Sujatha Kadde -LL-II(A&C) SK
+
+CSE-Data Science Section: J 17 (BWT) 35 LL-II(Drama) 
+
+18 (BWT)
+
+[Dr. Balaji R Wadkar]  [Dr. Vandana Dureja] [Dr. Nitin Korde]
+Time-Table Incharge  Dean F.Y B Tech Dean Academics
+
+SAT Friday Thursday
+
+11:15AM   - 11:30 AM        SHORT RECESS
+
+01:30PM -  02:15 PM        LONG RECESS
