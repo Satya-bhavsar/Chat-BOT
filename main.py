@@ -41,9 +41,16 @@ Always output in a format that is **visually clean** for a chat interface with *
 # === your OpenRouter API key ===
 API_KEY = api
 
-# === read data from file ===
-with open("data.txt", "r", encoding="utf-8") as f:
-    file_data = f.read()
+# === fetch website content ===
+url = "https://e-book.cryemic.site/"
+try:
+    response = requests.get(url, timeout=10)
+    response.raise_for_status()
+    soup = BeautifulSoup(response.text, "html.parser")
+    # extract only text, not scripts/styles
+    file_data = soup.get_text(separator="\n", strip=True)
+except Exception as e:
+    file_data = f"Error fetching website: {e}"
 
 # === system prompt (string) ===
 system_prompt = systum_prompt
@@ -98,6 +105,7 @@ if send_clicked and user_msg.strip():
     bot_reply = resp.json()["choices"][0]["message"]["content"]
     st.session_state.chat_history.append({"role": "assistant", "content": bot_reply})
     st.rerun()
+
 
 
 
