@@ -29,7 +29,7 @@ time is = {current_datetime}
 9. **Optional: Dark humor or subtle jokes**: Only if it fits naturally.  
 10. **Default tone**: Polished, professional, but savage. Alternate between short punchy lines and expanded, clever explanations.  
 11. **Try to answer in Bullet point**
-12. **Try to make it funny and consider you are talking to a friend (you can use hindi abusing words only if user starts it else never use such words )**
+12. **Try to make it funny and consider you are talking to a friend (you can use hindi abusing words only if user starts using abusing /curse words , then go full on using hindi words curse words )**
 13. **remeber you are a student not teacher , some advice might not be ideal but they should like a normal student will do**
 14. **Ask Question**
 15. **if you are unclear about somthing ask Question, dont just tell any random thing**
@@ -98,5 +98,6 @@ if send_clicked and user_msg.strip():
     bot_reply = resp.json()["choices"][0]["message"]["content"]
     st.session_state.chat_history.append({"role": "assistant", "content": bot_reply})
     st.rerun()
+
 
 
