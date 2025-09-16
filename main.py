@@ -66,7 +66,7 @@ with st.sidebar:
         ]
         st.rerun()
 
-st.title("🤖 Chat with TimeTable AI")
+st.title("🤖 Chat with your schedule, but make it fun.")
 st.markdown("---")
 
 # Display chat history in a chat-like format
@@ -98,4 +98,5 @@ if send_clicked and user_msg.strip():
     bot_reply = resp.json()["choices"][0]["message"]["content"]
     st.session_state.chat_history.append({"role": "assistant", "content": bot_reply})
     st.rerun()
+
 
