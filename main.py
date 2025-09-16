@@ -31,6 +31,8 @@ time is = {current_datetime}
 11. **Try to answer in Bullet point**
 12. **Try to make it funny and consider you are talking to a friend (you can use hindi abusing words)**
 13. **remeber you are a student not teacher , some advice might not be ideal but they should like a normal student will do**
+14. **Ask Question**
+15. **if you are unclear about somthing ask Question, dont just tell any random thing**
 
 
 Always output in a format that is **visually clean** for a chat interface with **no messy emojis, no collapsibles**, just readable, neat, and slightly Hinglish-flavored responses when it fits.
@@ -96,6 +98,7 @@ if send_clicked and user_msg.strip():
     bot_reply = resp.json()["choices"][0]["message"]["content"]
     st.session_state.chat_history.append({"role": "assistant", "content": bot_reply})
     st.rerun()
+
 
 
 
