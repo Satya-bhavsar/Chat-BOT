@@ -1,308 +1,348 @@
-G H Raisoni College of Engineering  and  Management, Pune
-  (An Empowered Autonomous Institute Affiliated to Savitribai Phule Pune University, Pune)
-
-E-Building F Y B TECH  MASTER  TIME-TABLE  (TERM-1)  A.Y.:-2025-26 W.E.F.: 15th Sept 2025 Rev-00
-
-Lecture  
-1 2 3 4 5 6
-
-No.
-Day
-
-Class 9:15-10:15 10:15-11:15 11:30-12:30 12:30-1:30 02:15-03:15 03:15-04:15
-
-   M&DC FDA A1:BWT()_E-522 LL-II(Yoga) LL-II(A&C) 
-DIV A BRW BD A2:EP(DI)_E-317 E-322 E-533
-
- E-533 E-533 A3:FDA(BD)_E-226A LL-II (Drama)
-FDA EE B1:DF(SK)_ Workshop EP .
-
-DIV B BD MW   B2:DF(BAP)_Workshop BS Library Hr.
-E-525 E-525 B3:DF(PW)_Workshop  E-525 .
-
-C1:FDA(KVU)_E-226A M&DC . IKS-VM .
-DIV C C2:BWT()_E-431 BRW TG MEET MP Sports
-
-C3:EP(BS)_A-304  E-533 . E-526 .
-EP  M&DC FDA . D1:FDA(KVU)_E-226A
-
-DIV D DI BRW KVU TG MEET D2:EP(DI)_E-317
-E-526 E-526 E-526 . D3:BWT()_E-431
-
-M&DC FDA  EP IKS-VM E1:DF(SMD)_Workshop
-DIV E MW KS AB MP E2:DF(NPS)_Workshop 
-
-E-527 E-527 E-527 E-527 E3:DF(PW)_Workshop
-EP M&DC F1:BWT()_E-431 LL-II(A&C) LL-II(Yoga)
-
-DIV F AW MW F2:EP(AW)_A-304 E-528 E-322
- E-528 E-528 F3:FDA()_E-226B LL-II (Drama)
-
-G1:DF(NPS)_Workshop FDA EE EP .
-DIV G G2:DF(BAP)_Workshop KS DM AW Sports
-
-G3:DF(AB)_Workshop E-531 E-531 E-531 .
-EE IKS-VM M&DC . H1:FDA()_E-226B
-
-DIV H DM MP MW TG MEET H2:EP(AB)_A-304
-E-532 E-532 E-532 . H3:BWT()_E-522
-
-I1:EP(NM)_E-317 IKS-VM . M&DC .
-DIV I    I2:BWT()_E-522 MP TG MEET MH Sports
-
-I3:FCSC(PR)_E-226B E-528 . E-532 .
-J1:DF(PKD)_E- M&DC FDA EP .
-
-DIV J J2:DF(CL)_E- MH PR NM TG MEET
-J3:DF(S&D)_E- E-525 E-525 E-527 .
-
- EE EP IKS-VM . A1:FDA(BD)_E-226A  
-DIV A AR DI MP TG MEET A2:BWT()_E-522
-
- E-533  E-533 E-533 . A3:EP(DI)_E-317
- B1:BWT()_E-522 M&DC . EP .
-
-DIV B B2:FDA(BD)_E-226A BRW TG MEET BS Sports
-B3:EP(BS)_A-304 E-525 . E-525 .
-
-C1:DF(SMD)_Workshop FDA EE M&DC .
-DIV C C2:DF(CL)_Workshop KVU AR BRW Sports
-
-C3:BWT()_E-226C E-526 E-526 E-533 .
- FDA M&DC D1:DF(SMD)_Workshop IKS-VM .
-
-DIV D KVU BRW D2:DF(NPS)_Workshop MP Sports
-E-526 E-526 D3:DF(SK)_Workshop E-526 .
-
-E1:BWT()_E-431 M&DC . LL-II( Yoga) LL-II(A&C) 
-DIV E E2:EP(AB)_E-317 MW Library Hr.  E-322 E-527
-
-E3:FDA(KS)_E-226B  E-527 . LL-II (Drama)
-FDA  M&DC EE . F1:DF(PKD)_Workshop 
-
-DIV F . MW DM Library Hr F2:DF(CL)_Workshop  
-E-528  E-528 E-528 . F3:DF(AB)_Workshop
-
-M&DC IKS-VM G1:EP(AW)_A-304  EP .
-DIV G MW MP G2:BWT()_E-522 AW TG MEET
-
-E-531 E-531 G3:FDA(KS)_E-226A E-531  .
-H1:DF(PKD)_Workshop FDA EP   M&DC .
-
-DIV H H2:DF(NG)_E- . AB MW Sports
-H3:DF(PW)_E- E-532 E-532 E-532 .
-
-EP FCSC I1:FCSC(PR)_E-226B LL-II(A&C) LL-II(Yoga)
-DIV I NM PR  I2:EP(NM)_E-317 E-528 E-322
-
-E-525 E-525 I3:BWT()_E-431 LL-II (Drama)
- M&DC EE . IKS-VM  J1:EP(NM)_A-304 
-
-DIV J MH MW Library Hr MP J2:FDA(PR)_E-226B 
-E-532 E-532 . E-531 J3:BWT()_E-431
-
-A1:DF(SMD)_Workshop M&DC .  EP .
-DIV A A2:DF(BAP)_Workshop BRW Library Hr. DI Sports
-
-A3:DF(PW)_Workshop E-533 .  E-533 .
-M&DC  FDA B1:FDA(BD)_E226A IKS-VM .
-
-DIV B BRW BD B2:EP(BS)_A-304 MP Sports
-E-533  E-533 B3:BWT()_E-522  E-525 .
-  EP M&DC   EE . C1:DF(SMD)_Workshop
-
-DIV C BS BRW AR Library Hr. C2:DF(CL)_Workshop 
-E-525 E-525 E-525 . C3:DF(KU)_Workshop
-
-EP FDA D1:EP(DI)_E-317 EE .
-DIV D DI KVU D2:BWT()_E-431 AR Sports
-
-E-526 E-526 D3:FDA(KVU)_E-226B  E-526 .
-EE  EP FDA . E1:FDA(KS)_E-226A 
-
-DIV E DM AB KS TG MEET E2: BWT()_E-522
-E-527 E-527 E-527 . E3:EP(AB)_A-304
-
-F1:FDA()_E-226A  IKS-VM .  FDA .
-DIV F F2:BWT()_E-431 MP TG MEET . Sports
-
-F3:EP(AW)_A-304 E-528 . E-528 .
-FDA M&DC EP . G1:DF(NPS)_E
-
-DIV G KS MW AW TG MEET G2:DF(BAP)_E
-E-531 E-531  E-531 . G3:DF(AB)_E
-
-EP IKS-VM H1:DF(PKD)_E LL-II(Yoga) LL-II(A&C)
-DIV H AB MP H2:DF(NG)_E E-322  E-532
-
-E-532 E-532 H3:DF(PW)_E LL-II (Drama)
-EE M&DC FCSC IKS-VM I1:BWT()_E-431
-
-DIV I MW MH PR MP I2:FCSC(PR)_E-226B
-E-528 E-528 E-532 E-532 I3:EP(NM)_E-317
-
-J1:BWT()_E-522 EP . LL-II(A&C) LL-II(Yoga) 
-DIV J J2:EP(NM)_E-317 NM Library Hr E-527 E-322
-
-J3:FDA()_E-226B  E-526 . LL-II (Drama)
-
-Wednesday Tuesday Monday
-
-11:15AM   - 11:30 AM        SHORT RECESS
-
-01:30PM -  02:15 PM        LONG RECESS
-
-
-
-              G H Raisoni College of Engineering  and  Management, Pune
-  (An Empowered Autonomous Institute Affiliated to Savitribai Phule Pune University, Pune)
-
-E-Building F Y B TECH  MASTER  TIME-TABLE  (TERM-1)  A.Y.:-2025-26 W.E.F.: 15th Sept 2025 Rev-00
-
-Lecture  
-1 2 3 4 5 6
-
-No.
-Day
-
-Class 9:15-10:15 10:15-11:15 11:30-12:30 12:30-1:30 02:15-03:15 03:15-04:15
-
-FDA EP  M&DC . A1:DF(SMD)_Workshop 
-DIV A BD DI BRW TG MEET A2:DF(BAP)_Workshop  
-
-E-533 E-533 E-533 . A3:DF(PW)_Workshop
-M&DC IKS-VM FDA . B1:EP(BS)_A-304
-
-DIV B BRW MP BD Library Hr. B2:BWT()_E-522
- E-525  E-525 E-525 . B3:FDA(BD)_E-226A 
-FDA EP C1:EP(BS)_A-304 LL-II(Yoga) LL-II(A&C)
-
-DIV C KVU BS C2:FDA(KVU)_E-226B  E-322  E-533
-E-526 E-526 C3:DF(KU)_Workshop LL-II (Drama)
-
-D1:DF(SMD)_E   EP . M&DC .
-DIV D D2:DF(NPS)_E DI Library Hr BRW TG MEET
-
-D3:DF(SK)_E E-526 . E-526 .
-M&DC EP E1:EP(AB)_E-317 IKS-VM .
-
-DIV E MW AB E2:FDA(KS)_E-226A MP Sports
-E-527 E-527 E3:BWT()_E-522 E-527 .
-FDA EE F1:DF(PKD)_Workshop EP .
-
-DIV F . DM F2:DF(CL)_Workshop AW Library Hr,
-E-528 E-528 F3:DF(AB)_Workshop E-528 .
-
-G1:BWT()_E-522 IKS-VM . LL-II (A&C) LL-II (Yoga)
-DIV G G2:FDA(KS)_E-226A MP Library Hr. E-531 E-322
-
-G3:EP(AW)_A-304 E-531 . LL-II (Drama)
-EE  M&DC FDA . H1:EP(AB)_E-317
-
-DIV H DM MW . Library Hr. H2:BWT()_E-431
-E-532 E-532 E-532 . H3:FDA()_E-226B 
-
-I1:DF(HM)_E- EP . EE .
-DIV I I2:DF(BAP)_E-  NM Library Hr. MW Sports
-
-I3:DF(KU)_E- E-528 . E-525 .
-J1:FDA()_E-226B FDA IKS-VM EP .
-
-DIV J J2:BWT()_E-431 PR MP NM TG MEET
-J3:EP(NM)_E-317 E-527 E-527 E-532 .
-
-A1:EP(DI)_E-317  FDA IKS-VM EE .
-DIV A A2:FDA(BD)_E-226A BD MP AR Sports
-
-A3:BWT()_E-522 E-533 E-533 E-533 .
-EP EE B1:DF(SK)_ Workshop LL-II(Yoga) LL-II(A&C) 
-
-DIV B BS MW B2:DF(BAP)_Workshop E-322 E-525
-E-525  E-525 B3:DF(PW)_Workshop LL-II (Drama)
-FDA EP IKS-VM . C1:BWT()_E-431
-
-DIV C KVU BS MP TG MEET C2:EP(BS)_E-317
-E-533 E-533  E-525 . C3:FDA(KVU)_E-226B
- EE IKS-VM D1:BWT()_E-431 LL-II(A&C) LL-II (Yoga)
-
-DIV D AR MP D2:FDA(KVU)_E-226B E-526 E-322
- E-526 E-526 D3:EP(DI)_E-317 LL-II (Drama)
-
-E1:DF(SMD)_Workshop FDA .  EE .
-DIV E E2:DF(NPS)_Workshop KS TG MEET DM Sports
-
-E3:DF(PW)_Workshop E-527 .  E-527 .
-M&DC EP F1:EP(AW)_A-304   IKS-VM .
-
-DIV F MW AW F2:FDA()_E-226A MP Sports
-E-528 E-528 F3:BWT()_E-522 E-528 .
-FDA M&DC EE .     G1:FDA(KS)_E-226A
-
-DIV G KS MW DM Library Hr. G2:EP(AW)_A-304
-E-531 E-531 E-531 . G3:BWT()_E-522 
-
-H1:BWT()_E-431 EP . FDA .
-DIV H H2:FDA()_E-226B AB TG MEET . Sports
-
-H3:EP(AB)_A-304 E-532 . E-532 .
-M&DC EP FCSC . I1:DF(HM)_Workshop  
-
-DIV I MH NM PR TG MEET I2:DF(BAP)_Workshop
-E-527 E-527 E-528 . I3:DF(KU)_Workshop
-FDA M&DC J1:DF(PKD)_E- EE .
-
-DIV J PR MH J2:DF(CL)_E- MW Sports
-E-532 E-532 J3:DF(S&D)_E- E-531 .
-
---- Activity Activity Activity
-
-Course Name S. S. 
-Course Intitals Faculty Name (& Course) Faculty Initials Faculty Name (&Course) Faculty Initials
-
-NO NO
-Matrices & Differential Calculus M&DC 1 Dr. Balaji R Wadkar (M&DC) BRW 19 (BWT)
-
-Engineering Physics EP 2 Dr. Mirazul Hoque (M&DC) MH 20 Mr.S. M. Deshpande (DF) SMD
-
-Foundation of Data Analytics FDA 3 Mrs. Maithili Wagh (M&DC) MW 21 Mr. N. P. Sirdeshmukh (DF) NPS
-
-Foundation of Cyber Security Concepts FCSC 4 Dr. Darshana Inamdar (EP) DI 22 Mr.C. Limbadri (DF) CL
-
-English for Engineers EE 5 Mr. Bharat Sonnis (EP) BS 23 Dr. P. K. Dhutekar (DF) PKD
-
-Basics of Web Technology BWT 6 Dr. Adinath Bhalekar (EP) AB 24 Mr Subhash Kumar (DF) SK
-
-Digital Fabrication DF 7 Mr. Ajinkya Wakchaure (EP) AW 25 Mr Kamal Ukey (DF) KU
-
-Indian Knowledge System -Vedic Maths IKS-VM 8 Dr. Nitu Moni (EP) NM 26 Dr Himadri Majumder (DF) HM
-
-Yoga LL-II (Yoga) 9 Mrs. Bharti Dewangan (FDA) BD 27 Mrs. Pratiksha Wagh (DF) PW
-Liberal 
-
-Art & Craft LL-II (A&C) 10 Mr. Kishore V Ugale (FDA) KVU 28 Dr.Akhya Behera (DF) AB
-Learning II
-
-Drama LL-II (Drama) 11 Mrs, Kavita Sharama (FDA) KS 29 Dr. B. A. Phugate (DF) BAP
-
-12 (FDA) 30 Mr. Nagareddy G (DF) NG
-
-Branch Sections 13 Mrs. Priyanka Raut (FDA/ FCSC) PR 31 Mr. Sawant/Mr.Dipike (Lab Asst.) S&D
-
-Computer Engg. Section: A, B, C & D 14 Ms.Alka Rudrakanthwar (EE) AK 32 Mrs. Manisha Patil (IKS-VM) MP
-
-Information Technology Section: E, F,  G & H 15 Mrs. Dipawalee Mishra (EE) DM 33 LL-II(Yoga)
-
-CSE-Cyber Security Section: I 16 Mr. Mahendra Wagh  (EE) MW 34 Ms Sujatha Kadde -LL-II(A&C) SK
-
-CSE-Data Science Section: J 17 (BWT) 35 LL-II(Drama) 
-
-18 (BWT)
-
-[Dr. Balaji R Wadkar]  [Dr. Vandana Dureja] [Dr. Nitin Korde]
-Time-Table Incharge  Dean F.Y B Tech Dean Academics
-
-SAT Friday Thursday
-
-11:15AM   - 11:30 AM        SHORT RECESS
-
-01:30PM -  02:15 PM        LONG RECESS
+# College Information
+[cite_start]College Name: G H Raisoni College of Engineering and Management, Pune [cite: 5]
+[cite_start]Document Title: FYB TECH MASTER TIME-TABLE (TERM-1) [cite: 7]
+[cite_start]Academic Year: 2025-26 [cite: 8]
+[cite_start]Effective From: 15th Sept 2025 [cite: 9]
+
+# Branch and Section Details
+- [cite_start]Computer Engg: Section A, B, C & D [cite: 101]
+- [cite_start]Information Technology: Section E, F, G & H [cite: 101]
+- [cite_start]CSE-Cyber Security: Section I [cite: 101]
+- [cite_start]CSE-Data Science: Section J [cite: 101]
+
+# Course Abbreviations
+- [cite_start]M&DC: Matrices & Differential Calculus [cite: 101]
+- [cite_start]EP: Engineering Physics [cite: 101]
+- [cite_start]FDA: Foundation of Data Analytics [cite: 101]
+- [cite_start]FCSC: Foundation of Cyber Security Concepts [cite: 101]
+- [cite_start]EE: English for Engineers [cite: 101]
+- [cite_start]BWT: Basics of Web Technology [cite: 101]
+- [cite_start]DF: Digital Fabrication [cite: 101]
+- [cite_start]IKS-VM: Indian Knowledge System-Vedic Maths [cite: 101]
+- [cite_start]LL-II (Yoga): Liberal Learning II - Yoga [cite: 101]
+- [cite_start]LL-II (A&C): Liberal Learning II - Art & Craft [cite: 101]
+- [cite_start]LL-II (Drama): Liberal Learning II - Drama [cite: 101]
+
+# Faculty Initials
+- [cite_start]BRW: Dr. Balaji R Wadkar (M&DC) [cite: 101]
+- [cite_start]MH: Dr. Mirazul Hoque (M&DC) [cite: 101]
+- [cite_start]MW: Mrs. Maithili Wagh (M&DC), Mr. Mahendra Wagh (EE) [cite: 101]
+- [cite_start]DI: Dr. Darshana Inamdar (EP) [cite: 101]
+- [cite_start]BS: Mr. Bharat Sonnis (EP) [cite: 101]
+- [cite_start]AB: Dr. Adinath Bhalekar (EP), Dr. Akhya Behera (DF) [cite: 101]
+- [cite_start]AW: Mr. Ajinkya Wakchaure (EP) [cite: 101]
+- [cite_start]NM: Dr. Nitu Moni (EP) [cite: 101]
+- [cite_start]BD: Mrs. Bharti Dewangan (FDA) [cite: 101]
+- [cite_start]KVU: Mr. Kishore V Ugale (FDA) [cite: 101]
+- [cite_start]KS: Mrs. Kavita Sharama (FDA) [cite: 101]
+- [cite_start]PR: Mrs. Priyanka Raut (FDA/FCSC) [cite: 101]
+- [cite_start]AR: Ms. Alka Rudrakanthwar (EE) [cite: 101]
+- [cite_start]DM: Mrs. Dipawalee Mishra (EE) [cite: 101]
+- [cite_start]SMD: Mr. S. M. Deshpande (DF) [cite: 101]
+- [cite_start]NPS: Mr. N. P. Sirdeshmukh (DF) [cite: 101]
+- [cite_start]CL: Mr. C. Limbadri (DF) [cite: 101]
+- [cite_start]PKD: Dr. P. K. Dhutekar (DF) [cite: 101]
+- [cite_start]SK: Mr Subhash Kumar (DF), Ms Sujatha Kadde (LL-II(A&C)) [cite: 101]
+- [cite_start]KU: Mr Kamal Ukey (DF) [cite: 101]
+- [cite_start]HM: Dr Himadri Majumder (DF) [cite: 101]
+- [cite_start]PW: Mrs. Pratiksha Wagh (DF) [cite: 101]
+- [cite_start]BAP: Dr. B. A. Phugate (DF) [cite: 101]
+- [cite_start]NG: Mr. Nagareddy G (DF) [cite: 101]
+- S&D: Mr. Sawant/Mr. [cite_start]Dipike (Lab Asst.) [cite: 101]
+- [cite_start]MP: Mrs. Manisha Patil (IKS-VM) [cite: 101]
+
+# Timetable
+
+--- MONDAY ---
+## [cite_start]DIV A [cite: 11]
+- 9:15-10:15: M&DC (BRW) in E-533
+- 10:15-11:15: FDA (BD) in E-533
+- 11:30-12:30: A1:BWT in E-522, A2:EP(DI) in E-317, A3:FDA(BD) in E-226A
+- 12:30-1:30: LL-II(A&C) in E-533, LL-II(Drama), LL-II(Yoga) in E-322
+## [cite_start]DIV B [cite: 11]
+- 9:15-11:15: B1:DF(SK) in Workshop, B2:DF(BAP) in Workshop, B3:DF(PW) in Workshop
+- 11:30-12:30: EE in E-525
+- 12:30-1:30: FDA (BD) in E-525
+- 2:15-3:15: EP (BS) in E-525
+- 3:15-4:15: Library Hr.
+## [cite_start]DIV C [cite: 11]
+- 9:15-11:15: C1:FDA(KVU) in E-226A, C2:BWT in E-431, C3:EP(BS) in A-304
+- 11:30-12:30: M&DC in E-533
+- 12:30-1:30: TG MEET
+- 2:15-3:15: IKS-VM (MP) in E-526
+- 3:15-4:15: Sports
+## [cite_start]DIV D [cite: 11]
+- 9:15-10:15: BRW in E-526
+- 10:15-11:15: TG MEET
+- 11:30-12:30: D1:FDA(KVU) in E-226A, D2:EP(DI) in E-317, D3:BWT in E-431
+- 12:30-1:30: EL:DF(SMD) in Workshop
+- 2:15-3:15: M&DC
+- 3:15-4:15: EP
+## [cite_start]DIV E [cite: 11]
+- 9:15-10:15: MP (KS) in E-527
+- 10:15-11:15: MW (AB) in E-527
+- 11:30-12:30: M&DC in E-527
+- 12:30-1:30: EP in E-527
+- 2:15-4:15: E2:DF(NPS) in Workshop, E3:DF(PW) in Workshop
+## [cite_start]DIV F [cite: 11]
+- 9:15-11:15: F1:BWT in E-431, F2:EP(AW) in A-304, F3:FDA in E-226B
+- 11:30-12:30: MW in E-528
+- 12:30-1:30: LL-II(Yoga) in E-322, LL-II(A&C) in E-528, LL-II(Drama)
+## [cite_start]DIV G [cite: 11]
+- 9:15-11:15: G1:DF(NPS) in Workshop, G2:DF(BAP) in Workshop, G3:DF(AB) in Workshop
+- 11:30-12:30: FDA (KS) in E-531
+- 12:30-1:30: EE (DM) in E-531
+- 2:15-3:15: EP (AW) in E-531
+- 3:15-4:15: Sports
+## [cite_start]DIV H [cite: 11]
+- 9:15-10:15: M&DC in E-532
+- 10:15-11:15: EE (DM) in E-532
+- 11:30-12:30: IKS-VM (MP) in E-532
+- 12:30-1:30: MW in E-532
+- 2:15-4:15: H1:FDA in E-226B, H2:EP(AB) in A-304, H3:BWT in E-522
+## [cite_start]DIV I [cite: 11]
+- 9:15-11:15: I1:EP(NM) in E-317, I2:BWT in E-522, I3:FCSC(PR) in E-226B
+- 11:30-12:30: IKS-VM in E-525
+- 12:30-1:30: FDA (PR) in E-525
+- 2:15-3:15: M&DC (MH) in E-532
+- 3:15-4:15: TG MEET
+## [cite_start]DIV J [cite: 11]
+- 9:15-11:15: J1:DF(PKD), J2:DF(CL), J3:DF(S&D)
+- 11:30-12:30: MP in E-528
+- 12:30-1:30: M&DC (MH) in E-532
+- 2:15-3:15: Sports
+- 3:15-4:15: EP (NM) in E-527
+
+--- TUESDAY ---
+## [cite_start]DIV A [cite: 11]
+- 9:15-10:15: IKS-VM (MP) in E-533
+- 10:15-11:15: EP (DI) in E-533
+- 11:30-12:30: M&DC (BRW) in E-533
+- 12:30-1:30: Sports
+- 2:15-4:15: A1:FDA(BD) in E-226A, A2:BWT in E-522, A3:EP(DI) in E-317
+## [cite_start]DIV B [cite: 11]
+- 9:15-11:15: B1:BWT in E-522, B2:FDA(BD) in E-226A, B3:EP(BS) in A-304
+- 11:30-12:30: M&DC (BRW) in E-525
+- 12:30-1:30: TG MEET
+- 2:15-3:15: EP (BS) in E-525
+- 3:15-4:15: Sports
+## [cite_start]DIV C [cite: 11]
+- 9:15-11:15: C1:DF(SMD) in Workshop, C2:DF(CL) in Workshop, C3:BWT in E-226C
+- 11:30-12:30: FDA (KVU) in E-526
+- 12:30-1:30: EE (AR) in E-526
+- 2:15-3:15: M&DC (BRW) in E-533
+- 3:15-4:15: Sports
+## [cite_start]DIV D [cite: 11]
+- 9:15-11:15: D1:DF(SMD) in Workshop, D2:DF(NPS) in Workshop, D3:DF(SK) in Workshop
+- 11:30-12:30: FDA (KVU) in E-526
+- 12:30-1:30: M&DC (BRW) in E-526
+- 2:15-3:15: IKS-VM (MP) in E526
+## [cite_start]DIV E [cite: 11]
+- 9:15-11:15: E1:BWT in E-431, E2:EP(AB) in E-317, E3:FDA(KS) in E-226B
+- 11:30-12:30: M&DC (MW) in E-527
+- 12:30-1:30: Library Hr.
+- 2:15-3:15: LL-II(Yoga) in E-322
+- 3:15-4:15: LL-II(A&C) in E-527, LL-II(Drama)
+## [cite_start]DIV F [cite: 11]
+- 9:15-10:15: MW in E-528
+- 10:15-11:15: Library Hr
+- 11:30-12:30: DM in E-528
+- 12:30-1:30: M&DC (MW) in E-528
+- 2:15-4:15: F1:DF(PKD) in Workshop, F2:DF(CL) in Workshop, F3:DF(AB) in Workshop
+## [cite_start]DIV G [cite: 11]
+- 9:15-11:15: G1:EP(AW) in A-304, G2:BWT in E-522, G3:FDA(KS) in E-226A
+- 11:30-12:30: IKS-VM (MP) in E-531
+- 12:30-1:30: M&DC (MW) in E-531
+- 2:15-3:15: EP (AW) in E-531
+- 3:15-4:15: TG MEET
+## [cite_start]DIV H [cite: 11]
+- 9:15-11:15: H1:DF(PKD) in Workshop, H2:DF(NG), H3:(PW)
+- 11:30-12:30: FDA in E-532
+- 12:30-1:30: EP (AB) in E-532
+- 2:15-3:15: M&DC (MW) in E-532
+- 3:15-4:15: Sports
+## [cite_start]DIV I [cite: 11]
+- 9:15-11:15: I1:FCSC(PR) in E-226B, I2:EP(NM) in E-317, I3:BWT in E-431
+- 11:30-12:30: EP (NM) in E-525
+- 12:30-1:30: FCSC (PR) in E-525
+- 2:15-3:15: LL-II (A&C) in E-528
+- 3:15-4:15: LL-II(Yoga) in E-322, LL-II(Drama)
+## [cite_start]DIV J [cite: 11]
+- 9:15-10:15: M&DC (MH) in E-532
+- 10:15-11:15: EE (MW) in E-532
+- 11:30-12:30: IKS VM (MP) in E-531
+- 12:30-1:30: Library Hr
+- 2:15-4:15: J1:EP(NM) in A-304, J2:FDA(PR) in E-226B, J3:BWT in E-431
+
+--- WEDNESDAY ---
+## [cite_start]DIV A [cite: 11]
+- 9:15-11:15: A1:DF(SMD) in Workshop, A2:DF(BAP) in Workshop, A3:DF(PW) in Workshop
+- 11:30-12:30: M&DC (BRW) in E-533
+- 12:30-1:30: Library Hr.
+- 2:15-3:15: EP (DI) in E-533
+- 3:15-4:15: Sports
+## [cite_start]DIV B [cite: 11]
+- 9:15-10:15: M&DC (BRW) in E-533
+- 10:15-11:15: FDA (BD) in E-533
+- 11:30-1:30: B1:FDA(BD) in E-226A, B2:EP(BS) in A-304, B3:BWT in E-522
+- 2:15-3:15: IKS-VM (MP) in E-525
+- 3:15-4:15: Sports
+## [cite_start]DIV C [cite: 11]
+- 9:15-10:15: M&DC (BRW) in E-525
+- 10:15-11:15: EP (BS) in E-525
+- 11:30-12:30: EE (AR) in E-525
+- 12:30-1:30: Library Hr.
+- 2:15-4:15: C1:DF(SMD) in Workshop, C2:DF(CL) in Workshop, C3:DF(KU) in Workshop
+## [cite_start]DIV D [cite: 11]
+- 9:15-11:15: D1:EP(DI) in E-317, D2:BWT in E-431, D3:FDA(KVU) in E-226B
+- 11:30-12:30: EE (KVU) in E-526
+- 12:30-1:30: DI in E-526
+- 2:15-3:15: Sports
+- 3:15-4:15: AR in E-526
+## [cite_start]DIV E [cite: 11]
+- 9:15-10:15: FDA (KS) in E-527
+- 10:15-11:15: EP (AB) in E-527
+- 11:30-12:30: EE (DM) in E-527
+- 12:30-1:30: TG MEET
+- 2:15-4:15: E1:FDA(KS) in E-226A, E2:BWT in E-522, E3:EP(AB) in A-304
+## [cite_start]DIV F [cite: 11]
+- 9:15-11:15: F1:FDA in E-226A, F2:BWT in E-431, F3:EP(AW) in A-304
+- 11:30-12:30: IKS-VM (MP) in E-528
+- 12:30-1:30: TG MEET
+- 2:15-3:15: FDA in E-528
+- 3:15-4:15: Sports
+## [cite_start]DIV G [cite: 11]
+- 9:15-10:15: FDA (KS) in E-531
+- 10:15-11:15: M&DC (MW) in E-531
+- 11:30-12:30: EP (AW) in E-531
+- 12:30-1:30: TG MEET
+- 2:15-4:15: G1:DF(NPS), G2:DF(BAP), G3:DF(AB)
+## [cite_start]DIV H [cite: 11]
+- 9:15-11:15: H1:DF(PKD), H2:DF(NG), H3:DF(PW)
+- 11:30-12:30: IKS-VM (MP) in E-532
+- 12:30-1:30: EP (AB) in E-532
+- 2:15-3:15: LL-II(Yoga) in E-322, LL-II(A&C) in E-532, LL-II(Drama)
+## [cite_start]DIV I [cite: 11]
+- 9:15-10:15: M&DC (MH) in E-528
+- 10:15-11:15: EE (MW) in E-532
+- 11:30-12:30: FCSC (PR) in E-532
+- 12:30-1:30: IKS-VM (MP) in E-528
+- 2:15-4:15: I1:BWT in E-431, I2:FCSC(PR) in E-226B, I3:EP(NM) in E-317
+## [cite_start]DIV J [cite: 11]
+- 9:15-11:15: J1:BWT in E-522, J2:EP(NM) in E-317, J3:FDA in E-226B
+- 11:30-12:30: EP (NM) in E-526
+- 12:30-1:30: Library Hr
+- 2:15-3:15: LL-II(A&C) in H-527, LL-II(Yoga) in E-322, LL-II(Drama)
+
+--- THURSDAY ---
+## [cite_start]DIV A [cite: 12, 25]
+- 9:15-10:15: FDA (BD) in E-533
+- 10:15-11:15: EP (DI) in E-533
+- 11:30-12:30: M&DC (BRW) in E-533
+- 12:30-1:30: TG MEET
+- 2:15-4:15: A1:DF(SMD) in Workshop, A2:DF(BAP) in Workshop, A3:DF(PW) in Workshop
+## [cite_start]DIV B [cite: 12, 25]
+- 9:15-10:15: IKS-VM (MP) in E-525
+- 10:15-11:15: M&DC (BRW) in E-525
+- 11:30-1:30: B1:EP(BS) in A-304, B2:BWT in E-522, B3:FDA(BD) in E-226A
+- 2:15-3:15: LL-II(Yoga) in E-322, LL-II(A&C) in E-533, LL-II(Drama)
+## [cite_start]DIV C [cite: 12, 25]
+- 9:15-10:15: EP (BS) in E-526
+- 10:15-11:15: FDA (KVU) in E-526
+- 11:30-1:30: C1:BWT in E-431, C2:EP(BS) in E-317, C3:FDA(KVU) in E-226B
+- 2:15-3:15: M&DC (BRW) in E-526
+- 3:15-4:15: TG MEET
+## [cite_start]DIV D [cite: 12, 25]
+- 9:15-11:15: D1:DF(SMD), D2:DF(NPS), D3:DF(SK)
+- 11:30-12:30: D1:BWT in E-431, D2:FDA(KVU) in E-226B, D3:EP(DI) in E-317
+- 2:15-3:15: IKS-VM (MP) in E-527
+- 3:15-4:15: Sports
+## [cite_start]DIV E [cite: 12, 25]
+- 9:15-10:15: M&DC (MW) in E-527
+- 10:15-11:15: EP (AB) in E-527
+- 11:30-1:30: E1:EP(AB) in E-317, E2:FDA(KS) in E-226A, E3:BWT in E-522
+- 2:15-3:15: LL-II(Yoga) in E-322, LL-II(A&C) in E-526, LL-II(Drama)
+## [cite_start]DIV F [cite: 12, 25]
+- 9:15-10:15: EE (DM) in E-528
+- 10:15-11:15: FDA in E-528
+- 11:30-1:30: F1:DF(PKD) in Workshop, F2:DF(CL) in Workshop, F3:DF(AB) in Workshop
+- 2:15-3:15: EP (AW) in E-528
+- 3:15-4:15: Library Hr.
+## [cite_start]DIV G [cite: 12, 25]
+- 9:15-11:15: G1:BWT in E-522, G2:FDA(KS) in E-226A, G3:EP(AW) in A-304
+- 11:30-12:30: EE (DM) in E-527
+- 12:30-1:30: Sports
+- 2:15-3:15: LL-II(A&C) in E-531, LL-II(Yoga) in E-322, LL-II(Drama)
+## [cite_start]DIV H [cite: 12, 25]
+- 9:15-10:15: M&DC (MW) in E-532
+- 10:15-11:15: EE (DM) in E-532
+- 11:30-1:30: H1:EP(AB) in E-317, H2:BWT in E-431, H3:FDA in E-226B
+- 2:15-3:15: IKS-VM (MP) in E-528
+- 3:15-4:15: Sports
+## [cite_start]DIV I [cite: 12, 25]
+- 9:15-11:15: I1:DF(HM), I2:DF(BAP), I3:DF(KU)
+- 11:30-12:30: FCSC (PR) in E-528
+- 12:30-1:30: TG MEET
+- 2:15-4:15: G1:FDA(KS) in E-226A, G2:EP(AW) in A-304, G3:BWT in E-522
+## [cite_start]DIV J [cite: 12, 25]
+- 9:15-11:15: J1:FDA in E-226B, J2:BWT in E-431, J3:EP(NM) in E-317
+- 11:30-12:30: J1:DF(PKD), J2:DF(CL), J3:DF(S&D)
+- 2:15-3:15: FDA in E-532
+- 3:15-4:15: Sports
+
+--- FRIDAY ---
+## [cite_start]DIV A [cite: 12, 25]
+- 9:15-11:15: A1:EP(DI) in E-317, A2:FDA(BD) in E-226A, A3:BWT in E-522
+- 11:30-12:30: EP (DI) in E-533
+- 12:30-1:30: EE (AR) in E-533
+- 2:15-3:15: Sports
+- 3:15-4:15: TG MEET
+## [cite_start]DIV B [cite: 12, 25]
+- 9:15-11:15: B1:DF(SK) in Workshop, B2:DF(BAP) in Workshop, B3:DF(PW) in Workshop
+- 11:30-12:30: MW in E-505
+- 12:30-1:30: BS in E-525
+- 2:15-3:15: Sports
+## [cite_start]DIV C [cite: 12, 25]
+- 9:15-10:15: EP (BS) in E-533
+- 10:15-11:15: M&DC (KVU) in E-533
+- 11:30-1:30: C1:EP(BS) in A-304, C2:FDA(KVU) in E-226B, C3:DF(KU) in Workshop
+- 2:15-3:15: LL-II(A&C) in E-525, LL-II(Yoga) in E-322, LL-II(Drama)
+## [cite_start]DIV D [cite: 12, 25]
+- 9:15-10:15: IKS-VM (MP) in E-526
+- 10:15-11:15: EE (AR) in E-526
+- 11:30-12:30: Library Hr
+- 12:30-1:30: EP in E-526
+## [cite_start]DIV E [cite: 12, 25]
+- 9:15-11:15: E1:DF(SMD) in Workshop, E2:DF(NPS) in Workshop, E3:DF(PW) in Workshop
+- 11:30-12:30: M&DC (MW) in E-528
+- 12:30-1:30: EP (AW) in E-528
+- 2:15-3:15: EE (MW) in F-525
+- 3:15-4:15: Sports
+## [cite_start]DIV F [cite: 12, 25]
+- 9:15-11:15: F1:EP(AW) in A-304, F2:FDA in E-226A, F3:BWT in E-522
+- 11:30-1:30: F1:DF(PKD) in Workshop, F2:DF(CL) in Workshop, F3:DF(AB) in Workshop
+- 2:15-3:15: EP (NM) in B-532
+- 3:15-4:15: Sports
+## [cite_start]DIV G [cite: 12, 25]
+- 9:15-10:15: M&DC (MW) in E-531
+- 10:15-11:15: FDA (KS) in E-531
+- 11:30-12:30: Library Hr
+- 12:30-1:30: IKS-VM (MP) in E-531
+- 2:15-3:15: EE (MW) in E-531
+- 3:15-4:15: Sports
+## [cite_start]DIV H [cite: 12, 25]
+- 9:15-11:15: H1:BWT in E-431, H2:FDA in E-226B, H3:EP(AB) in A-304
+- 11:30-12:30: FDA in B-532
+- 12:30-1:30: Library Hr
+## [cite_start]DIV I [cite: 12, 25]
+- 9:15-10:15: M&DC (MH) in E-527
+- 10:15-11:15: EP (NM) in E-527
+- 11:30-1:30: I1:DF(HM) in Workshop, I2:DF(BAP) in Workshop, I3:DF(KU) in Workshop
+## [cite_start]DIV J [cite: 12, 25]
+- 9:15-10:15: M&DC (MH) in E-532
+- 10:15-11:15: FDA (PR) in E-532
+- 11:30-12:30: FDA (PR) in E-527
+- 12:30-1:30: Library Hr
+
+--- SATURDAY ---
+- [cite_start]Activity [cite: 12]
