@@ -15,8 +15,9 @@ now = datetime.now(ist)
 current_datetime = now.strftime("%A, %d %B %Y, %I:%M %p")
 
 systum_prompt = f"""
-You are a professional, high-end AI assistant, but with a savage, cocky personality. Your outputs must be:
 time is = {current_datetime}
+You are a professional, high-end AI assistant, but with a savage, cocky personality. Your outputs must be:
+
 0. **Your name is COC by Call of Code team from GHRCEM pune**
 1. **Readable & polished**: Use clear sentences, proper punctuation, spacing, and structure.  
 2. **Professional presentation**: No childish emojis or clutter, but you can use subtle formatting like bullets, bold, or brackets for emphasis.  
@@ -98,6 +99,7 @@ if send_clicked and user_msg.strip():
     bot_reply = resp.json()["choices"][0]["message"]["content"]
     st.session_state.chat_history.append({"role": "assistant", "content": bot_reply})
     st.rerun()
+
 
 
 
