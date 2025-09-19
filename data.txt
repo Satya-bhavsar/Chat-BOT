@@ -1,6 +1,6 @@
 # College Information
 [cite_start]College Name: G H Raisoni College of Engineering and Management, Pune [cite: 5]
-[cite_start]Document Title: FYB TECH MASTER TIME-TABLE (TERM-1) [cite: 7]
+[cite_start]Document Title: FYB TECH MASTER TIME-TABLE (TERM-1) [ci te: 7]
 [cite_start]Academic Year: 2025-26 [cite: 8]
 [cite_start]Effective From: 15th Sept 2025 [cite: 9]
 
@@ -293,10 +293,10 @@
 --- FRIDAY ---
 ## [cite_start]DIV A [cite: 12, 25]
 - 9:15-11:15: A1:EP(DI) in E-317, A2:FDA(BD) in E-226A, A3:BWT in E-522
-- 11:30-12:30: EP (DI) in E-533
-- 12:30-1:30: EE (AR) in E-533
-- 2:15-3:15: Sports
-- 3:15-4:15: TG MEET
+- 11:30-12:30: FDA (BD) in E-533
+- 12:30-1:30: IKS-VM (MP) in E-533
+- 2:15-3:15: EE (AR) in E-533
+- 3:15-4:15: Sports
 ## [cite_start]DIV B [cite: 12, 25]
 - 9:15-11:15: B1:DF(SK) in Workshop, B2:DF(BAP) in Workshop, B3:DF(PW) in Workshop
 - 11:30-12:30: MW in E-505
